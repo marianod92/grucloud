@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1978px" preserveAspectRatio="none" style="width:715px;height:1978px;background:#FFFFFF;" version="1.1" viewBox="0 0 715 1978" width="715px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="1966.7417" style="stroke:#000000;stroke-width:2.0;" width="702" x="6" y="6"/><line style="stroke:#000000;stroke-width:2.0;" x1="6" x2="708" y1="27.0146" y2="27.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="118" x="298" y="22.0752">gc new for Azure</text><ellipse cx="211" cy="53.0146" fill="#000000" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><rect fill="#FFFFFF" height="32" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="62" x="180" y="98.0146"/><text fill="#000000" font-family="Courier" font-size="12" lengthAdjust="spacing" textLength="42" x="190" y="117.0615">gc new</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="98" x="162" y="165.0146"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="74" x="176" y="187.0791">Select Azure</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="173" x="124.5" y="234.5986"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="149" x="138.5" y="256.6631">Enter the project's name</text><rect fill="#FFFFFF" height="209.0146" style="stroke:#000000;stroke-width:2.0;" width="544" x="154" y="304.1826"/><path d="M331,304.1826 L331,314.1973 L321,324.1973 L154,324.1973 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="167" x="157" y="319.2578">Is the az CLI installed ?</text><rect fill="#FFFFFF" height="32" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="90" x="166" y="341.1973"/><text fill="#000000" font-family="Courier" font-size="12" lengthAdjust="spacing" textLength="70" x="176" y="360.2441">az version</text><polygon fill="#FFFFFF" points="176,469.1973,246,469.1973,258,481.1973,246,493.1973,176,493.1973,164,481.1973,176,469.1973" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="70" x="176" y="485.572">is installed ?</text><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="14" x="258" y="478.8877">no</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="406" x="282" y="399.9053"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="25" x="300" y="421.9697">Visit</text><a href="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli" target="_blank" title="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli" xlink:actuate="onRequest" xlink:href="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli" xlink:show="new" xlink:title="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli" xlink:type="simple"><text fill="#0000FF" font-family="Verdana" font-size="12" lengthAdjust="spacing" text-decoration="underline" textLength="349" x="329" y="421.9697">https://docs.microsoft.com/en-us/cli/azure/install-azure-cli</text></a><rect fill="#FFFFFF" height="209.0146" style="stroke:#000000;stroke-width:2.0;" width="253" x="138.5" y="561.5659"/><path d="M283.5,561.5659 L283.5,571.5806 L273.5,581.5806 L138.5,581.5806 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="130" x="141.5" y="576.6411">Is Authenticated ?</text><rect fill="#FFFFFF" height="32" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="125" x="148.5" y="598.5806"/><text fill="#000000" font-family="Courier" font-size="12" lengthAdjust="spacing" textLength="105" x="158.5" y="617.6274">az account show</text><polygon fill="#FFFFFF" points="161,726.5806,261,726.5806,273,738.5806,261,750.5806,161,750.5806,149,738.5806,161,726.5806" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="100" x="161" y="742.9553">is authenticated ?</text><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="14" x="273" y="736.271">no</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="84" x="297.5" y="657.2886"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="0" x="315.5" y="679.353"/><text fill="#000000" font-family="Courier" font-size="12" lengthAdjust="spacing" textLength="56" x="315.5" y="678.9194">az login</text><rect fill="#FFFFFF" height="161.1826" style="stroke:#000000;stroke-width:2.0;" width="253" x="84.5" y="805.5806"/><path d="M250.5,805.5806 L250.5,815.5952 L240.5,825.5952 L84.5,825.5952 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="156" x="87.5" y="820.6558">Select Subscription Id</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="129" x="146.5" y="842.5952"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="0" x="160.5" y="864.6597"/><text fill="#000000" font-family="Courier" font-size="12" lengthAdjust="spacing" textLength="105" x="160.5" y="864.2261">az account list</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="233" x="94.5" y="912.1792"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="209" x="108.5" y="934.2437">Prompt for Subscription Id from list</text><rect fill="#FFFFFF" height="161.1826" style="stroke:#000000;stroke-width:2.0;" width="331" x="45.5" y="1001.7632"/><path d="M234.5,1001.7632 L234.5,1011.7778 L224.5,1021.7778 L45.5,1021.7778 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="179" x="48.5" y="1016.8384">Create a Service Principal</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="226" x="98" y="1038.7778"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="202" x="112" y="1060.8423">Prompt for Service Principal Name</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="311" x="55.5" y="1108.3618"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="0" x="69.5" y="1130.4263"/><text fill="#000000" font-family="Courier" font-size="12" lengthAdjust="spacing" textLength="287" x="69.5" y="1129.9927">az ad sp create-for-rbac -n sp-my-project</text><rect fill="#FFFFFF" height="158.5986" style="stroke:#000000;stroke-width:2.0;" width="215" x="103.5" y="1197.9458"/><path d="M214.5,1197.9458 L214.5,1207.9604 L204.5,1217.9604 L103.5,1217.9604 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="96" x="106.5" y="1213.021">Select Region</text><rect fill="#FFFFFF" height="32" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="195" x="113.5" y="1234.9604"/><text fill="#000000" font-family="Courier" font-size="12" lengthAdjust="spacing" textLength="175" x="123.5" y="1254.0073">az account list-locations</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="181" x="120.5" y="1301.9604"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="157" x="134.5" y="1324.0249">Prompt for region from list</text><rect fill="#FFFFFF" height="561.1973" style="stroke:#000000;stroke-width:2.0;" width="440.5" x="16" y="1391.5444"/><path d="M174,1391.5444 L174,1401.5591 L164,1411.5591 L16,1411.5591 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="148" x="19" y="1406.6196">Register namespaces</text><rect fill="#FFFFFF" height="32" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="370" x="26" y="1428.5591"/><text fill="#000000" font-family="Courier" font-size="12" lengthAdjust="spacing" textLength="350" x="36" y="1447.606">az provider register --namespace Microsoft.Network</text><rect fill="#FFFFFF" height="32" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="370" x="26" y="1495.5591"/><text fill="#000000" font-family="Courier" font-size="12" lengthAdjust="spacing" textLength="350" x="36" y="1514.606">az provider register --namespace Microsoft.Compute</text><path d="M292.5,1562.5591 L292.5,1589.5591 L272.5,1593.5591 L292.5,1597.5591 L292.5,1624.5591 A0,0 0 0 0 292.5,1624.5591 L446.5,1624.5591 A0,0 0 0 0 446.5,1624.5591 L446.5,1572.5591 L436.5,1562.5591 L292.5,1562.5591 A0,0 0 0 0 292.5,1562.5591 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><path d="M436.5,1562.5591 L436.5,1572.5591 L446.5,1572.5591 L436.5,1562.5591 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><ellipse cx="304" cy="1573.0591" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="72" x="311.5" y="1577.3599">TENANT_ID</text><ellipse cx="304" cy="1586.0591" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="120" x="311.5" y="1590.3599">SUBSCRIPTION_ID</text><ellipse cx="304" cy="1599.0591" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="48" x="311.5" y="1603.3599">APP_ID</text><ellipse cx="304" cy="1612.0591" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="64" x="311.5" y="1616.3599">PASSWORD</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="123" x="149.5" y="1576.2671"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="39" x="163.5" y="1598.3315">Create</text><text fill="#000000" font-family="Courier" font-size="12" lengthAdjust="spacing" textLength="56" x="206.5" y="1597.8979">auth.env</text><path d="M271,1659.5591 L271,1700.9587 L251,1704.9587 L271,1708.9587 L271,1750.3584 A0,0 0 0 0 271,1750.3584 L401,1750.3584 A0,0 0 0 0 401,1750.3584 L401,1669.5591 L391,1659.5591 L271,1659.5591 A0,0 0 0 0 271,1659.5591 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><path d="M391,1659.5591 L391,1669.5591 L401,1669.5591 L391,1659.5591 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><ellipse cx="282.5" cy="1670.0591" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="72" x="290" y="1674.3599">config.js</text><ellipse cx="282.5" cy="1683.0591" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="64" x="290" y="1687.3599">auth.env</text><ellipse cx="282.5" cy="1696.0591" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="48" x="290" y="1700.3599">iac.js</text><ellipse cx="282.5" cy="1709.0591" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="96" x="290" y="1713.3599">resources.js</text><ellipse cx="282.5" cy="1722.0591" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="96" x="290" y="1726.3599">package.json</text><ellipse cx="282.5" cy="1737.8584" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="40" x="290" y="1742.6289">etc ...</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="80" x="171" y="1687.6667"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="56" x="185" y="1709.7312">Save files</text><rect fill="#FFFFFF" height="34.584" rx="12.5" ry="12.5" style="stroke:#000000;stroke-width:1.0;" width="101" x="160.5" y="1785.3584"/><text fill="#000000" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="0" x="174.5" y="1807.4229"/><text fill="#000000" font-family="Courier" font-size="12" lengthAdjust="spacing" textLength="77" x="174.5" y="1806.9893">npm install</text><path d="M241,1854.9424 L241,1889.842 L221,1893.842 L241,1897.842 L241,1932.7417 A0,0 0 0 0 241,1932.7417 L355,1932.7417 A0,0 0 0 0 355,1932.7417 L355,1864.9424 L345,1854.9424 L241,1854.9424 A0,0 0 0 0 241,1854.9424 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><path d="M345,1854.9424 L345,1864.9424 L355,1864.9424 L345,1854.9424 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="79" x="247" y="1873.0122">Next Steps:</text><ellipse cx="252.5" cy="1881.2417" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="56" x="260" y="1885.5425">gc list</text><ellipse cx="252.5" cy="1894.2417" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="80" x="260" y="1898.5425">gc gencode</text><ellipse cx="252.5" cy="1907.2417" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="80" x="260" y="1911.5425">gc destroy</text><ellipse cx="252.5" cy="1920.2417" fill="#000000" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:0.0;"/><text fill="#000000" font-family="Courier" font-size="13" lengthAdjust="spacing" textLength="64" x="260" y="1924.5425">gc apply</text><ellipse cx="211" cy="1893.842" fill="#FFFFFF" rx="10" ry="10" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:2.5;" x1="204.8128" x2="217.1872" y1="1887.6549" y2="1900.0292"/><line style="stroke:#000000;stroke-width:2.5;" x1="217.1872" x2="204.8128" y1="1887.6549" y2="1900.0292"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="63.0146" y2="98.0146"/><polygon fill="#000000" points="207,88.0146,211,98.0146,215,88.0146,211,92.0146" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="130.0146" y2="165.0146"/><polygon fill="#000000" points="207,155.0146,211,165.0146,215,155.0146,211,159.0146" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="199.5986" y2="234.5986"/><polygon fill="#000000" points="207,224.5986,211,234.5986,215,224.5986,211,228.5986" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="373.1973" y2="469.1973"/><polygon fill="#000000" points="207,459.1973,211,469.1973,215,459.1973,211,463.1973" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="258" x2="485" y1="481.1973" y2="481.1973"/><line style="stroke:#000000;stroke-width:1.5;" x1="485" x2="485" y1="434.4893" y2="481.1973"/><polygon fill="#000000" points="481,444.4893,485,434.4893,489,444.4893,485,440.4893" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="485" x2="485" y1="357.1973" y2="399.9053"/><line style="stroke:#000000;stroke-width:1.5;" x1="485" x2="256" y1="357.1973" y2="357.1973"/><polygon fill="#000000" points="266,353.1973,256,357.1973,266,361.1973,262,357.1973" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="269.1826" y2="341.1973"/><polygon fill="#000000" points="207,331.1973,211,341.1973,215,331.1973,211,335.1973" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="630.5806" y2="726.5806"/><polygon fill="#000000" points="207,716.5806,211,726.5806,215,716.5806,211,720.5806" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="273" x2="339.5" y1="738.5806" y2="738.5806"/><line style="stroke:#000000;stroke-width:1.5;" x1="339.5" x2="339.5" y1="691.8726" y2="738.5806"/><polygon fill="#000000" points="335.5,701.8726,339.5,691.8726,343.5,701.8726,339.5,697.8726" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="339.5" x2="339.5" y1="614.5806" y2="657.2886"/><line style="stroke:#000000;stroke-width:1.5;" x1="339.5" x2="273.5" y1="614.5806" y2="614.5806"/><polygon fill="#000000" points="283.5,610.5806,273.5,614.5806,283.5,618.5806,279.5,614.5806" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="493.1973" y2="598.5806"/><polygon fill="#000000" points="207,588.5806,211,598.5806,215,588.5806,211,592.5806" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="20" x="215" y="550.2637">yes</text><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="877.1792" y2="912.1792"/><polygon fill="#000000" points="207,902.1792,211,912.1792,215,902.1792,211,906.1792" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="750.5806" y2="842.5952"/><polygon fill="#000000" points="207,832.5952,211,842.5952,215,832.5952,211,836.5952" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="1073.3618" y2="1108.3618"/><polygon fill="#000000" points="207,1098.3618,211,1108.3618,215,1098.3618,211,1102.3618" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="946.7632" y2="1038.7778"/><polygon fill="#000000" points="207,1028.7778,211,1038.7778,215,1028.7778,211,1032.7778" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="1266.9604" y2="1301.9604"/><polygon fill="#000000" points="207,1291.9604,211,1301.9604,215,1291.9604,211,1295.9604" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="1142.9458" y2="1234.9604"/><polygon fill="#000000" points="207,1224.9604,211,1234.9604,215,1224.9604,211,1228.9604" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="1460.5591" y2="1495.5591"/><polygon fill="#000000" points="207,1485.5591,211,1495.5591,215,1485.5591,211,1489.5591" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="1527.5591" y2="1576.2671"/><polygon fill="#000000" points="207,1566.2671,211,1576.2671,215,1566.2671,211,1570.2671" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="1610.8511" y2="1687.6667"/><polygon fill="#000000" points="207,1677.6667,211,1687.6667,215,1677.6667,211,1681.6667" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="1722.2507" y2="1785.3584"/><polygon fill="#000000" points="207,1775.3584,211,1785.3584,215,1775.3584,211,1779.3584" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="1819.9424" y2="1883.842"/><polygon fill="#000000" points="207,1873.842,211,1883.842,215,1873.842,211,1877.842" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.5;" x1="211" x2="211" y1="1336.5444" y2="1428.5591"/><polygon fill="#000000" points="207,1418.5591,211,1428.5591,215,1418.5591,211,1422.5591" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[175db967e8290fa576dc0f8bd59bd87d]
+@startuml gc-new-azure
+!theme plain
+
+skinparam svgLinkTarget _blank
+
+card "gc new for Azure" {
+start
+
+:""gc new"";
+: Select Azure;
+: Enter the project's name;
+
+
+partition "Is the az CLI installed ?" {
+repeat :""az version"";
+backward:  Visit [[https://docs.microsoft.com/en-us/cli/azure/install-azure-cli]];
+repeat while (is installed ?) is (no) 
+->yes;
+}
+
+partition "Is Authenticated ? " {
+
+repeat :""az account show"";
+backward:  ""az login"";
+repeat while (is authenticated ?) is (no) 
+
+}
+
+partition "Select Subscription Id" {
+ 
+: ""az account list"";
+: Prompt for Subscription Id from list;
+}
+
+partition "Create a Service Principal" {
+: Prompt for Service Principal Name;
+: ""az ad sp create-for-rbac -n sp-my-project"";
+}
+
+partition "Select Region " {
+  :""az account list-locations"";
+: Prompt for region from list;
+}
+
+partition "Register namespaces" {
+:""az provider register - -namespace Microsoft.Network"";
+:""az provider register - -namespace Microsoft.Compute"";
+
+: Create ""auth.env"";
+note right
+* ""TENANT_ID""
+* ""SUBSCRIPTION_ID""
+* ""APP_ID""
+* ""PASSWORD""
+end note 
+
+: Save files; 
+note right
+* ""config.js""
+* ""auth.env""
+* ""iac.js""
+* ""resources.js""
+* ""package.json""
+* etc ...
+end note 
+
+: ""npm install"";
+end
+
+note right
+Next Steps:
+* ""gc list""
+* ""gc gencode""
+* ""gc destroy""
+* ""gc apply""
+end note 
+
+}
+@enduml
+
+@startuml gc-new-azure
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+
+skinparam svgLinkTarget _blank
+
+card "gc new for Azure" {
+start
+
+:""gc new"";
+: Select Azure;
+: Enter the project's name;
+
+
+partition "Is the az CLI installed ?" {
+repeat :""az version"";
+backward:  Visit [[https://docs.microsoft.com/en-us/cli/azure/install-azure-cli]];
+repeat while (is installed ?) is (no) 
+->yes;
+}
+
+partition "Is Authenticated ? " {
+
+repeat :""az account show"";
+backward:  ""az login"";
+repeat while (is authenticated ?) is (no) 
+
+}
+
+partition "Select Subscription Id" {
+ 
+: ""az account list"";
+: Prompt for Subscription Id from list;
+}
+
+partition "Create a Service Principal" {
+: Prompt for Service Principal Name;
+: ""az ad sp create-for-rbac -n sp-my-project"";
+}
+
+partition "Select Region " {
+  :""az account list-locations"";
+: Prompt for region from list;
+}
+
+partition "Register namespaces" {
+:""az provider register - -namespace Microsoft.Network"";
+:""az provider register - -namespace Microsoft.Compute"";
+
+: Create ""auth.env"";
+note right
+* ""TENANT_ID""
+* ""SUBSCRIPTION_ID""
+* ""APP_ID""
+* ""PASSWORD""
+end note 
+
+: Save files; 
+note right
+* ""config.js""
+* ""auth.env""
+* ""iac.js""
+* ""resources.js""
+* ""package.json""
+* etc ...
+end note 
+
+: ""npm install"";
+end
+
+note right
+Next Steps:
+* ""gc list""
+* ""gc gencode""
+* ""gc destroy""
+* ""gc apply""
+end note 
+
+}
+@enduml
+
+PlantUML version 1.2021.16(Wed Dec 08 12:25:22 COT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>
